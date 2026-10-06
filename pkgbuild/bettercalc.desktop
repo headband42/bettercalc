@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Bettercalc
+Comment=Basic, scientific and programmer calculator
+Exec=bettercalc
+Icon=bettercalc
+Terminal=false
+Categories=Utility;Calculator;
+Keywords=calculator;math;scientific;programmer;hex;binary;
+StartupWMClass=bettercalc
