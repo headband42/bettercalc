@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="CalcButton.qml">CalcButton.qml</file>
+        <file alias="KeyGrid.qml">KeyGrid.qml</file>
+        <file alias="ModeSwitcher.qml">ModeSwitcher.qml</file>
+        <file alias="IconButton.qml">IconButton.qml</file>
+        <file alias="Display.qml">Display.qml</file>
+        <file alias="ProgrammerPanel.qml">ProgrammerPanel.qml</file>
+        <file alias="HistoryPanel.qml">HistoryPanel.qml</file>
+        <file alias="HelpOverlay.qml">HelpOverlay.qml</file>
+        <file alias="fonts/iAWriterMonoS-Regular.ttf">../fonts/iAWriterMonoS-Regular.ttf</file>
+    </qresource>
+</RCC>
